@@ -1,2 +1,4 @@
 # hello-world
-Repositorio de pruebas 
+Repositorio de prueba
+commit desde web
+commit desde escritorio y archivo de texto
